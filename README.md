@@ -1,2 +1,2 @@
-# Spring-Chat
-simple springboot and WebSocket real-time chat application
+# Spring-Resto
+simple springboot restaurant management system
