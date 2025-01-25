@@ -1,2 +1,2 @@
-# Spring-Resto
-simple springboot restaurant management system
+# Certify
+this is a hyperledger-fabric enterprise certifying chaincode, created using golang programming language
