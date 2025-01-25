@@ -1,0 +1,3 @@
+(package ID 'basic_1.0:6f48731c3e6fdcc3c3bc3b2e29e3cd9b0cde5c02308bde98510d8c48263d6d4b')
+ Chaincode code package identifier: basic_1.0:6f48731c3e6fdcc3c3bc3b2e29e3cd9b0cde5c02308bde98510d8c48263d6d4b
+ Package ID: basic_1.0:6f48731c3e6fdcc3c3bc3b2e29e3cd9b0cde5c02308bde98510d8c48263d6d4b, Label: basic_1.0
